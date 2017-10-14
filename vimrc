@@ -62,3 +62,5 @@ call plug#end()
 colorscheme solarized
 
 filetype plugin indent on
+let g:goyo_width="95"
+let g:goyo_height="97%"
